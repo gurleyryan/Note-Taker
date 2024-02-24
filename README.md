@@ -32,7 +32,9 @@ N/A
 ## Usage
 
 [Link to the deployed application](https://note-taker-gurley-8647a887ae47.herokuapp.com/) <br />
+![Screenshot 2024-02-23 at 23-38-21 Note Taker](https://github.com/gurleyryan/Note-Taker/assets/48134032/9400f081-c634-4f46-8944-a2646fdb3f0f) <br />
 Click "Get Started" to take you to the Notes page. <br />
+![Screenshot 2024-02-23 at 23-38-51 Note Taker](https://github.com/gurleyryan/Note-Taker/assets/48134032/e2c01c45-0418-4c45-bb2b-2aafa702b15d) <br />
 Type in a note title and the contents of your note. <br />
 Click "Save Note" and your note will appear in the left-hand column. Click "Clear Form" to start your note from scratch. <br />
 You can click on the notes on the left to view their contents. <br />
