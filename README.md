@@ -31,7 +31,13 @@ N/A
 
 ## Usage
 
-
+[Link to the deployed application](https://note-taker-gurley-8647a887ae47.herokuapp.com/) <br />
+Click "Get Started" to take you to the Notes page. <br />
+Type in a note title and the contents of your note. <br />
+Click "Save Note" and your note will appear in the left-hand column. Click "Clear Form" to start your note from scratch. <br />
+You can click on the notes on the left to view their contents. <br />
+While viewing a saved note, you can click "New Note" to start a new note. <br />
+The trash icon will clear the note on the right, but will not delete the note from the list.
 
 ## Contributing
 
@@ -43,11 +49,12 @@ Contributors: <br />
 
 External Sources: <br />
 - [Node.js](https://nodejs.org/en) <br />
-- [Express.js](https://www.npmjs.com/package/express)
+- [Express.js](https://www.npmjs.com/package/express) <br />
+- [uuid](https://www.npmjs.com/package/uuid)
 
 ## Tests
 
-
+N/A
 
 ## License
 
